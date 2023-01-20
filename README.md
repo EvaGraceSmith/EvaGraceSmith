@@ -2,13 +2,18 @@
 
 <!-- ### Hi there, I'm Eva Grace!  -->
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
--  I'm a full stack software developer, educator, artist, and former youth leader who can be found coding, discussing code with my husband and daughters, and drinking Kumbucha.
-- 🌱 I’m currently learning React JavaScript while sharpening my skills in CSS. 
-- ⚡ My Passion: I am hoping to inspire others to join this dynamic and fascinating field.
-- 💻 Check out these two Web Pages that I built and am most proud of:
-     - [Holiday Helpers](https://holidayhelpers.github.io/holiday-helpers/) 
-     - [Odd Duck](https://evagracesmith.github.io/odd-duck/)
-- 📫 How to reach me: smithevagrace@gmail.com || 
+
+#### I am a full stack software developer, educator, artist, and former youth leader who can be found coding, discussing code with my husband and daughters, and drinking Kumbucha.
+
+#### 🌱 I’m currently learning React JavaScript while sharpening my skills in CSS. 
+
+#### ⚡ My Passion: I am hoping to inspire others to join this dynamic and fascinating field.
+
+#### 💻 Check out these two Web Pages that I built and am most proud of:
+     *[Holiday Helpers](https://holidayhelpers.github.io/holiday-helpers/) 
+     * [Odd Duck](https://evagracesmith.github.io/odd-duck/)
+
+ <h3 align="center">📫 How to reach me: smithevagrace@gmail.com </h3>
 <!-- [Dev Portfolio](https://sarah-hart-landolt.github.io/) || [Artist Site](https://www.sarahhartlandolt.com/) -->
 - 😄 Pronouns: She/Her
 
