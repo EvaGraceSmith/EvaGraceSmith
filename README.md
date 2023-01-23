@@ -3,13 +3,13 @@
 <!-- ### Hi there, I'm Eva Grace!  -->
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-#### I am a full stack software developer, educator, artist, and former youth leader who can be found coding, discussing code with my husband and daughters, and drinking Kumbucha.
+#### I am a full stack software developer, educator, artist, and former youth leader who can be found coding, discussing code with my husband and daughters, playing with our puppies and drinking Kombucha.
 
 #### 😄 Pronouns: She/Her
 
 #### 🌱 I’m currently learning React JavaScript while sharpening my skills in CSS. 
 
-#### ⚡ My Passion: I am hoping to inspire others to join this dynamic and fascinating field.
+#### ⚡ My Passion: To use my talents and skills to make my corner of the world a better place.
 
 #### 💻 Check out these two Web Pages that I built and am most proud of:
 
@@ -18,7 +18,7 @@
      * [Odd Duck](https://evagracesmith.github.io/odd-duck/)
 
  <h3 align="center">📫 How to reach me: smithevagrace@gmail.com </h3>
-<!-- [Dev Portfolio](https://sarah-hart-landolt.github.io/) || [Artist Site](https://www.sarahhartlandolt.com/) -->
+<!-- [Dev Portfolio](https://.github.io/) || [Artist Site](https://www..com/) -->
 
 
 
