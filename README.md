@@ -49,6 +49,8 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
+[Check out this 3D image of my 2022 GitHub Commits!](https://skyline.github.com/evagracesmith/2022)
+
 <!--
 **EvaGraceSmith/EvaGraceSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
