@@ -27,7 +27,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /> 
          <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer">
-   <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="50"/></a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="50"/></a> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50" />  
@@ -44,9 +44,9 @@
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="50"/></a>
       <a href="https://www.github.com/" target="_blank" rel="noreferrer">
-   <img src="   https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="50"/></a>
-         <a href="https://www.codepen.com/" target="_blank" rel="noreferrer">
-   <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="50"/></a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="50"/></a>
+    <a href="https://www.codepen.com/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="50"/></a>
 
 </div>  
 
