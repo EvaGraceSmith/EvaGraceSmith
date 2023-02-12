@@ -18,7 +18,7 @@
      <h2>Odd Duck</h2>
      <a href="https://evagracesmith.github.io/odd-duck" target="_blank" rel="noreferrer"> -->
 
- <h3 align="center">📫 How to reach me: smithevagrace@gmail.com </h3>
+
 <!-- [Dev Portfolio](https://.github.io/) || [Artist Site](https://www..com/) -->
 
 
@@ -60,6 +60,9 @@
 <a href="https://github.com/EvaGraceSmith" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+ <h3 align="center">📫 smithevagrace@gmail.com </h3>
+<br>
+<br>
 <br>
 <a href="https://skyline.github.com/evagracesmith/2022">Check out this 3D image of my 2022 GitHub Commits!</a>
 
