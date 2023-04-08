@@ -40,10 +40,14 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="50"/></a>
     <a href="https://www.codepen.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="50"/></a>
-   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="50" />
-<img style="margin: 10px" src="https://vitejs.dev/logo.svg" alt="Vite" height="50" />
-<img style="margin: 10px" src="https://picocss.com/img/logo.svg" alt="Pico.css" height="50" />
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="50" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer">
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="50" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+<img style="margin: 10px" src="https://vitejs.dev/logo.svg" alt="Vite" height="50" /></a>
+<a href="https://picocss.com/" target="_blank" rel="noreferrer">
+<img style="margin: 10px" src="https://picocss.com/img/logo.svg" alt="Pico.css" height="50" /></a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="50"/></a>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
