@@ -3,11 +3,11 @@
 <!-- ### Hi there, I'm Eva Grace!  -->
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-#### I am a full stack software developer, educator, mentor and artist who can be found coding, discussing code with my husband and daughters, playing with our puppies and drinking Kombucha
+#### I am a full stack software developer, educator, mentor and artist who can be found coding, discussing code with my husband and daughters, listening to coding podcasts while walking our puppies and drinking pourover coffee.
 
 #### 😄 Pronouns: She/Her
 
-#### 🌱 I’m currently learning MongoDB while sharpening my skills in React JavaScript
+#### 🌱 I’m currently learning authentication and authorization while sharpening my skills building servers. 
 
 #### ⚡ My Passion: To use my talents and skills to make my corner of the world a better place
 
@@ -56,6 +56,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="50"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="50"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="50"/></a>
+
+<a href="https://trello.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="50"/></a>
+
 
 </div>  
 
