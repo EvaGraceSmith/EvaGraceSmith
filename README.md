@@ -7,7 +7,7 @@
 
 #### 😄 Pronouns: She/Her
 
-#### 🌱 I’m currently learning authentication and authorization while sharpening my server building skills. 
+#### 🌱 I'm currently learning authentication and authorization to enhance my server building skills 
 
 #### ⚡ My Passion: To use my talents and skills to make my corner of the world a better place
 
