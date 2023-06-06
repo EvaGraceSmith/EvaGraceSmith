@@ -68,7 +68,8 @@
 <!-- <a href="https://trello.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="50"/></a> -->
 
-</div>  
+</div>
+  
 ___
 
 
@@ -87,6 +88,7 @@ ___
 <br>
 <br>
 <br>
+
 ___
 
 <div align="center">  
