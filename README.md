@@ -69,9 +69,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="50"/></a> -->
 
 </div>  
-<div>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EvaGraceSmith)](https://git.io/streak-stats)
-</div>
+
 
 <br/>  
 
