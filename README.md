@@ -70,8 +70,13 @@
 
 </div>  
 
+___
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EvaGraceSmith)](https://git.io/streak-stats)
 
+
+___
 
 <br/>  
 
