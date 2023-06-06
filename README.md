@@ -3,11 +3,11 @@
 <!-- ### Hi there, I'm Eva Grace!  -->
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-#### I am a full-stack software developer, educator, mentor, and artist. You can find me coding, discussing code with my husband, listening to coding podcasts while walking our puppies, attending my daughter's soccer matches and swim meets, and enjoying a good cup of pour-over coffee. If you have caffeine, let's talk! 
+#### I am a full-stack software developer, educator, mentor, and artist. You can find me coding, discussing code with my husband, listening to coding podcasts while walking our puppies, attending my daughter's soccer matches and swim meets, and enjoying a good cup of pour-over coffee. If you have caffeine, let's talk
 
 #### 😄 Pronouns: She/Her
 
-#### 🌱 I'm currently learning socket.io and AWS to enhance my server building skills 
+#### 🌱 I'm currently learning socket.io and AWS to enhance my server building skills
 
 #### ⚡ My Passion: To use my talents and skills to make my corner of the world a better place
 
@@ -68,8 +68,10 @@
 <!-- <a href="https://trello.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="50"/></a> -->
 
-
 </div>  
+<div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EvaGraceSmith)](https://git.io/streak-stats)
+</div>
 
 <br/>  
 
