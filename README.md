@@ -70,13 +70,7 @@
 
 </div>  
 
-___
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EvaGraceSmith)](https://git.io/streak-stats)
-
-
-___
 
 <br/>  
 
@@ -92,6 +86,14 @@ ___
 <br>
 <br>
 <br>
+___
+
+<div align="center">  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EvaGraceSmith)](https://git.io/streak-stats)
+</div>
+
+___
+
 <a href="https://skyline.github.com/evagracesmith/2022">Check out this 3D image of my 2022 GitHub Commits!</a>
 
 <!--
