@@ -69,12 +69,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="50"/></a> -->
 
 </div>  
-
+___
 
 
 <br/>  
 
-## Connect with me  
+## Connect with me 
+ 
 
 <div align="center"><a href="https://www.linkedin.com/in/eva-grace-smith-99661125b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -89,7 +90,9 @@
 ___
 
 <div align="center">  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EvaGraceSmith)](https://git.io/streak-stats)
+
 </div>
 
 ___
