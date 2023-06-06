@@ -63,7 +63,7 @@
     <a href="https://socket.io/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socketio" width="40" height="50"/></a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-<img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" width="40" height="50"/></a>
+<img src="https://d3c9ouasuy8pg6.cloudfront.net/dist/images/aws-logo-light_2a8d69e93c95850234f1c278e70f7ddb.png" alt="aws" width="50" height="40"/></a>
 
 <!-- <a href="https://trello.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="50"/></a> -->
