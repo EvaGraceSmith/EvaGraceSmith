@@ -56,6 +56,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="50"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="50"/></a>
+    <a href="https://sequelize.org/docs/v6/" target="_blank" rel="noreferrer">
+<img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="50"/></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="50"/></a>
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
