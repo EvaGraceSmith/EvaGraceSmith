@@ -7,7 +7,7 @@
 
 #### 😄 Pronouns: She/Her
 
-#### 🌱 I'm currently learning socket.io and AWS to enhance my server building skills
+#### 🌱 I'm currently learning React Redux and React Native to enhance my application building skills
 
 #### ⚡ My Passion: To use my talents and skills to make my corner of the world a better place
 
