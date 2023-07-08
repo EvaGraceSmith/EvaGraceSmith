@@ -54,8 +54,6 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="50"/></a>
     <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node.js" width="40" height="50"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" alt="nextjs logo" width="50" height="10" style="padding-bottom: 20px"/></a>
     <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
 <img src="https://axios-http.com/assets/logo.svg" alt="axios logo" width="40" height="50"/></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
