@@ -3,11 +3,11 @@
 <!-- ### Hi there, I'm Eva Grace!  -->
 <h2 align="center">Welcome to my GitHub! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
-#### I am a full-stack software developer, educator, mentor, and artist. You can find me coding, discussing code with my husband, listening to coding podcasts while walking our puppies, attending my daughter's soccer matches and swim meets, and enjoying a good cup of pour-over coffee. If you have caffeine, let's talk
+#### I am a full-stack software developer, educator, mentor, and artist. You can find me coding, discussing code with my husband, listening to coding podcasts while walking our puppies, attending my daughter's soccer matches and swim meets, and enjoying a good cup of pour-over coffee. If you have caffeine, let's talk!
 
 #### 😄 Pronouns: She/Her
 
-#### 🌱 I'm currently learning React Redux, Gatsby, and React Native to enhance my application building skills
+#### 🌱 I'm currently completing my Google UX design certificate to enhance my application building skills
 
 #### ⚡ My Passion: To use my talents and skills to make my corner of the world a better place
 
